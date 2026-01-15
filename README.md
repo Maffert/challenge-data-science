@@ -17,7 +17,6 @@
 
 - Python: pandas, matplotlib, seaborn, folium
 - Google Colab: notebook para análisis y visualización
-- Excel / Google Sheets: limpieza y preprocesamiento de datos
 - GitHub: almacenamiento y versionado del proyecto
 
 ## 📝 Descripción
